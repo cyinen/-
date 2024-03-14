@@ -12,8 +12,7 @@
 > “emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation” ([Ma 等, 2023, p. 1](zotero://select/library/items/7VRD2MS6)) ([pdf](zotero://open-pdf/library/items/JDD3XVM9?page=1&annotation=58YPEKMD))
 > > 论文框架图（有助于一眼就能想起论文内容）
 > > 论文简述：
-> > 自监督预训练模型用于语音情绪识别
-
+> > 自监督预训练模型用于语音情绪识别, 在下游多个数据集上面达到了 sota
 
 ######### 模版 #############
 
